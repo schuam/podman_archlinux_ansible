@@ -10,5 +10,5 @@ to test a German locale setup.
 So far it does not support systemd, but I might add that in the future.
 
 You can find the
-[image on dockerhub](https://hub.docker.com/r/schuam/docker\_archlinux\_ansible).
+[image on dockerhub](https://hub.docker.com/r/schuam/podman\_archlinux\_ansible).
 
